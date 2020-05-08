@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Juntos Contra Corona</string>
+    <string name="title_home">Ajudar</string>
+    <string name="title_notifications">Notificações</string>
+    <string name="title_need">Necessidades</string>
+    <string name="title_info">Informação</string>
+    <string name="facebook_application_id">2609573789366911</string>
+    <string name="fb_login_protocol_scheme">fb2609573789366911</string>
+    <string name="name">Nome</string>
+    <string name="phone">Telefone</string>
+    <string name="needing">NECESSIDADES</string>
+    <string name="save">SALVAR</string>
+    <string name="store">Mercado</string>
+    <string name="pharmacy">Farmacia</string>
+    <string name="talk">Conversar</string>
+    <string name="button_helping">Posso Ajudar</string>
+    <string name="button_helper">Preciso de ajuda</string>
+
+    <string name="button_help">Ajudar</string>
+    <string name="button_get_help">Pedir ajuda</string>
+
+    <string name="button_notification_confirm">Eu posso ajudar</string>
+    <string name="button_notification_not_confirm">Eu não posso ajudar</string>
+
+    <string name="button_notification_helper_confirm">Eu ainda preciso de ajuda</string>
+    <string name="button_notification_helper_not_confirm">Não preciso mais</string>
+
+    <string name="button_notification_helping">Tudo certo</string>
+    <string name="button_notification_not_helping">Não precisa mais</string>
+    <string name="button_notification_loading_helping">Aguardando...</string>
+
+    <string name="name_item">Nome: %s</string>
+    <string name="phone_item">Entre em contato pelo número: %s</string>
+    <string name="distance_item">Você esta a: %s KM</string>
+    <string name="being_item">Sendo ajudado por: %s </string>
+    <string name="being_helper_item">Ajudando : %d pessoas</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+
+    <string name="save_success">Dados salvos com sucesso</string>
+    <string name="save_success_item">Você esta ajudando agora..</string>
+    <string name="save_error">Ops, deu algum problema</string>
+    <string name="save_location">Necessário saber sua localização</string>
+
+    <string name="empty_notification">Opa, não existe\nnenhuma notificação!</string>
+    <string name="empty_helper">Opa, não existe\nnenhuma pessoa precisando de\najuda perto de você!</string>
+    <string name="empty_helping">Opa, não existe\nnenhuma pessoa para\najudar perto de você!</string>
+
+    <string name="how_prevent">Como se previnir:</string>
+
+    <string name="use_scarf">Utilize papel descartável ao espirrar ou tossir</string>
+    <string name="icon_scarf">Icone tossir</string>
+
+    <string name="use_mask">Utilize mascaras, para evitar a transmissão no ar</string>
+    <string name="icon_mask">Icone Mascara</string>
+
+    <string name="use_gel">Higienize as mãos com álcool gel 70</string>
+    <string name="icon_gel">Icone Gel</string>
+
+    <string name="washing_hands">Lave bem suas mão</string>
+    <string name="icon_hands">Icone Hands</string>
+
+    <string name="distance_people">Fique a 2m de distância das pessoas</string>
+    <string name="icon_people">Icone People</string>
+
+    <string name="stay_home">Fique em casa</string>
+    <string name="icon_home">Icone Home</string>
+
+    <string name="how_symptoms">Quais são os sintomas:</string>
+    <string name="use_fever">Febres altas, superior a 38, 39 graus</string>
+    <string name="icon_fever">Icone febre</string>
+
+    <string name="use_cough">Tosse frequente geralmente seca</string>
+    <string name="icon_cough">Icone Tossse</string>
+
+    <string name="use_ache">Dores no corpo</string>
+    <string name="icon_ache">Icone dores</string>
+
+    <string name="use_breathe">Dificuldades para respirar</string>
+    <string name="icon_breathe">Icone respirar</string>
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@+id/navigation_needed">
+
+    <fragment
+        android:id="@+id/navigation_helping"
+        android:name="com.juntoscontracorona.ui.helping.HelpingFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_helping" />
+
+    <fragment
+        android:id="@+id/navigation_notification"
+        android:name="com.juntoscontracorona.ui.notification.NotificationFragment"
+        android:label="@string/title_notifications" />
+
+    <fragment
+        android:id="@+id/navigation_needed"
+        android:name="com.juntoscontracorona.ui.needed.UserFragment"
+        android:label="@string/title_need"
+        tools:layout="@layout/fragment_needing" />
+    <fragment
+        android:id="@+id/navigation_info"
+        android:name="com.juntoscontracorona.ui.informetaion.InformationFragment"
+        android:label="@string/title_info"
+        tools:layout="@layout/fragment_information" />
+</navigation>

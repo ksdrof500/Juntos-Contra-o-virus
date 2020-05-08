@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "760593109832",
+    "firebase_url": "https://juntos-contra-corona.firebaseio.com",
+    "project_id": "juntos-contra-corona",
+    "storage_bucket": "juntos-contra-corona.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760593109832:android:88a1088404a45bbaa8997d",
+        "android_client_info": {
+          "package_name": "com.example.juntoscontracorona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760593109832-9hhotvncrirl70pnc6k5gj1civue4vdq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.juntoscontracorona",
+            "certificate_hash": "a4b56f64dff0f7e4d2a26a66def1585015afbc56"
+          }
+        },
+        {
+          "client_id": "760593109832-vmhc1qsgd4g6qme5o4vkrl8m5qqpjp9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX4ybhhQ3GUGcSZ7Oku0PoMs9NlJS9Wjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760593109832-vmhc1qsgd4g6qme5o4vkrl8m5qqpjp9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760593109832:android:51b766b972e75c19a8997d",
+        "android_client_info": {
+          "package_name": "com.juntoscontracorona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760593109832-odnpq1ljho7hnoo2v22gu31uus5ujo8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.juntoscontracorona",
+            "certificate_hash": "a4b56f64dff0f7e4d2a26a66def1585015afbc56"
+          }
+        },
+        {
+          "client_id": "760593109832-vmhc1qsgd4g6qme5o4vkrl8m5qqpjp9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX4ybhhQ3GUGcSZ7Oku0PoMs9NlJS9Wjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760593109832-vmhc1qsgd4g6qme5o4vkrl8m5qqpjp9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
